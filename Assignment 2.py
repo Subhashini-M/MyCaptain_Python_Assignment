@@ -17,10 +17,4 @@ else:
         n2=n3
         c=c+1
 
-#2.Positive numbers within a range
 
-n=int(input("Enter the initial value:"))
-s=int(input("Enter the final value:"))
-for x in range(n,s+1,1):
-    if x>0:
-        print(x)
