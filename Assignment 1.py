@@ -5,8 +5,6 @@ Ar=3.14*(R)**2
 print("The area of a circle with radius",R, "is", Ar)
 
 
-
-
 '''2.Python program to accept a filename and print its extension'''
 
 File_name=input("Input the file name:")
